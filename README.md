@@ -17,12 +17,11 @@
 
 ![- Bild fehlt -](https://github.com/FINII-Apps/topic-discovery/blob/main/screenshot.png?raw=true "Output of Script")
 
-**Weitere interessante Apps**
-- [Report Light](https://github.com/FINII-Apps/one-second-decks-report-light "Zur App")
-- [Briefing Light](https://github.com/FINII-Apps/one-second-decks-briefing-light "Zur App")
-- [Workshop Agenda Light](https://github.com/FINII-Apps/one-second-decks-workshop-light "Zur App")
-
 **Quellverweise & Contributions**
 - [Ashley Poon auf Medium](https://medium.com/analytics-vidhya/using-natural-language-processing-in-python-to-conduct-your-own-social-listening-f0e6bda47aee)
 - [stevenbird, vader lexikon für Textanalyse](https://github.com/nltk/nltk_data/tree/gh-pages/packages/sentiment)
   
+**Weitere interessante Apps**
+- [Report Light](https://github.com/FINII-Apps/one-second-decks-report-light "Zur App")
+- [Briefing Light](https://github.com/FINII-Apps/one-second-decks-briefing-light "Zur App")
+- [Workshop Agenda Light](https://github.com/FINII-Apps/one-second-decks-workshop-light "Zur App")
