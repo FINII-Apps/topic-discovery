@@ -12,6 +12,7 @@
 **Anwendung**
 - Die App wird über mit Automator aufgerufen und ausgeführt
 - Requirements: Die Module, die du installieren musst, findest du in der requirements.txt. Bitte achte darauf, dass du die richtigen Versionsnummern der Module installierst, die in der requirements.txt angegeben sind
+- Läuft einwandfrei mit Python 3.9.0
 
 **Output**
 
